@@ -1,0 +1,10 @@
+C:\Users\linyuxuan\Desktop\20201028stars\20201028stars\obj\Debug\20201028stars.csprojAssemblyReference.cache
+C:\Users\linyuxuan\Desktop\20201028stars\20201028stars\obj\Debug\_20201028stars.row.resources
+C:\Users\linyuxuan\Desktop\20201028stars\20201028stars\obj\Debug\_20201028stars.Properties.Resources.resources
+C:\Users\linyuxuan\Desktop\20201028stars\20201028stars\obj\Debug\20201028stars.csproj.GenerateResource.cache
+C:\Users\linyuxuan\Desktop\20201028stars\20201028stars\obj\Debug\20201028stars.csproj.CoreCompileInputs.cache
+C:\Users\linyuxuan\Desktop\20201028stars\20201028stars\bin\Debug\20201028stars.exe.config
+C:\Users\linyuxuan\Desktop\20201028stars\20201028stars\bin\Debug\20201028stars.exe
+C:\Users\linyuxuan\Desktop\20201028stars\20201028stars\bin\Debug\20201028stars.pdb
+C:\Users\linyuxuan\Desktop\20201028stars\20201028stars\obj\Debug\20201028stars.exe
+C:\Users\linyuxuan\Desktop\20201028stars\20201028stars\obj\Debug\20201028stars.pdb
